@@ -1,5 +1,5 @@
-#Machine Learning Projects Repository
-Overview
+###Machine Learning Projects Repository
+###Overview
 This repository showcases a collection of my machine learning projects, specifically focusing on classification and regression tasks. Each project demonstrates my ability to apply various machine learning algorithms, data preprocessing techniques, and evaluation metrics to solve real-world problems. These projects highlight my skills in data analysis, model building, and performance optimization.
 
 Projects Included
